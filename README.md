@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Luan Maxwell</code>, tenho 21 anos, moro em BH e iniciei os estudos de programação aos 18. Atualmente sou <code>Estagiário em Migração de Dados</code> na empresa <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a> e aluno do 4º período de Análise e Desenvolvimento de Sistemas na Universidade <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:! Meu nome é <code>Luan Maxwell</code>, tenho 21 anos, moro em Belo Horizonte e iniciei meus estudos na área de desenvolvimento aos 18. Atualmente sou <code>Estagiário em Migração de Dados</code> na empresa <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a> e aluno do 4º período de Análise e Desenvolvimento de Sistemas na Universidade <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :student:<br />
 </div>
 
 -----
@@ -58,14 +58,12 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a>, atuei como <code>Suporte Técnico</code> e atualmente sou <code>Estagiário em Migração de Dados</code>.<br />
-- :man_teacher: &nbsp; Concluí um curso de <code>Programação Orientada a Objetos em Java</code> e atualmente estou cursando um de <code>Programação Web</code> na <a href="https://www.udemy.com" target="_blank">Udemy</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :basketball: &nbsp; Entre meus hobbies, gosto de praticar esportes, sendo basquete meu favorito. 
+- :computer: &nbsp; Na <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a>, atuei como <code>Suporte Técnico</code> e atualmente sou <code>Estagiário em Migração de Dados</code>.<br />
+- :student: &nbsp; Concluí um curso de <code>Programação Orientada a Objetos em Java</code> e atualmente estou cursando um de <code>Programação Web</code> na <a href="https://www.udemy.com">Udemy</a>.<br />
+- :basketball: &nbsp; Entre meus hobbies, gosto de praticar esportes, sendo basquete meu favorito. <br/>
 - :video_game: &nbsp; Gosto de diversos estilos de jogos diferentes como <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">LOL</a>, <a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank">Nier Automata</a> e <a href="https://www.hollowknight.com" target="_blank">Hollow Knight</a>.<br />
 - :violin: &nbsp; Sou violinista e apaixonado por músicas clássicas, sendo Mozart e Paganini meus compositores favoritos.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:luanmaxwell25@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
