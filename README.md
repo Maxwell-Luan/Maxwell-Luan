@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Luan Maxwell</code>, tenho 21 anos, moro em BH e iniciei os estudos de programação aos 18. Atualmente sou <code>estagiário em migração de dados</code> na empresa <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a> e aluno do 4º período de Análise e Desenvolvimento de Sistemas na Universidade <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
 </div>
 
 -----
