@@ -14,7 +14,7 @@
 <tr>
 <td><a href="https://github.com/maxwell-Luan" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://replit.com/@aramuni"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://replit.com/@hydewinter04"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:luanmaxwell25@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -88,7 +88,7 @@
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Luan Maxwell's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31fskbccjqqj7hab6snxccteg6fe" alt="Data Card for Spotify">
 </details>
 </div>
@@ -112,4 +112,4 @@
 
 -----
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Maxwell-Luan"/>
