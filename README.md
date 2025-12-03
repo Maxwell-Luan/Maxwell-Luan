@@ -24,9 +24,9 @@
 </td>
 <td><a href="https://www.linkedin.com/in/luan-maxwell-13aa75233/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
+<!--<<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
 <td><a href="https://discordapp.com/users/hyde04k" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -42,7 +42,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:! Meu nome é <code>Luan Maxwell</code>, tenho 21 anos, moro em Belo Horizonte e iniciei meus estudos na área de desenvolvimento aos 18. Atualmente sou <code>Estagiário em Migração de Dados</code> na empresa <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a> e aluno do 4º período de Análise e Desenvolvimento de Sistemas na Universidade <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :student:<br />
+<i><b>Olá</b> :wave:! Meu nome é <code>Luan Maxwell</code>, tenho 22 anos, moro em Belo Horizonte e iniciei meus estudos na área de desenvolvimento aos 18. Atualmente sou <code>Analista de Migração de Dados</code> na empresa <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a> e profissional formado em Análise e Desenvolvimento de Sistemas na Universidade <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :student:<br />
 </div>
 
 -----
@@ -56,16 +56,16 @@
 
 <div align="justify">
 <p> 
-- :computer: &nbsp;Na <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a>, atuei como <code>Suporte Técnico</code> e atualmente sou <code>Estagiário em Migração de Dados</code>.<br />
-- :student: &nbsp;Concluí um curso de <code>Programação Orientada a Objetos em Java</code> e atualmente estou cursando um de <code>Programação Web</code> na <a href="https://www.udemy.com">Udemy</a>.<br />
+- :computer: &nbsp;Na <a href="https://hinova.com.br" target="_blank">Hinova Soluções Digitais</a>, atuei como <code>Suporte Técnico</code> e atualmente sou <code>Analista de Migração de Dados</code>.<br />
+- :student: &nbsp;Concluí cursos como <code>Programação Orientada a Objetos em Java, ReactJS entre outros </code> e atualmente estou aprendendo mais no curso de <code>Java com SpringBoot Professional</code> na <a href="https://devsuperior.com.br/">DevSuperior</a>.<br />
 - :electric_plug: &nbsp;Antes de entrar na área de desenvolvimento, me formei em <code>Manutenção Eletroeletrônica</code> no <a href="https://www.fiemg.com.br/senai/">SENAI</a>.<br/>
 - :england: &nbsp;Adquiri um nível de inglês avançado através de jogos, filmes e músicas, sem nenhum curso específico.<br/>
 - :basketball: &nbsp;Entre meus hobbies, gosto de praticar esportes, sendo basquete meu favorito. Meu jogador favorito é o Stephen Curry e torço para os Warriors (infelizmente).<br/>
 - :video_game: &nbsp;Sou fã de jogos eletrônicos. Entre meus favoritos posso dizer <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">LoL</a>, <a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank">Nier Automata</a> e <a href="https://www.hollowknight.com" target="_blank">Hollow Knight</a>.<br />
 - :violin: &nbsp;Sou violinista e apaixonado por músicas clássicas, sendo Mozart e Paganini meus compositores favoritos.<br />
-- :book: &nbsp;Gosto de ler diversos gêneros diferentes de livros. Meu favorito é <code>As 48 Leis do Poder</code> de Robert Greene.<br/>
+- :book: &nbsp;Gosto de ler diversos gêneros diferentes de livros. Meu favorito é <code>A Rainha Vermelha</code> de Victoria Aveyard<br/>
 - :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:luanmaxwell25@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :page_facing_up: &nbsp;Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+- :page_facing_up: &nbsp;Veja meu <a href="https://www.linkedin.com/in/luan-maxwell-13aa75233/" target="_blank">LinkedIn</a> para mais informações.
 </p>
 </div>
 </div>
