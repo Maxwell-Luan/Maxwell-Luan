@@ -32,7 +32,7 @@
 </td>
 <td><a href="https://www.skoob.com.br/pt/profile/692f89a0b5139716c613409b" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
+<!--<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>-->
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@
 - :electric_plug: &nbsp;Antes de entrar na área de desenvolvimento, me formei em <code>Manutenção Eletroeletrônica</code> no <a href="https://www.fiemg.com.br/senai/">SENAI</a>.<br/>
 - :england: &nbsp;Adquiri um nível de inglês avançado através de jogos, filmes e músicas, sem nenhum curso específico.<br/>
 - :basketball: &nbsp;Entre meus hobbies, gosto de praticar esportes, sendo basquete meu favorito. Meu jogador favorito é o Stephen Curry e torço para os Warriors (infelizmente).<br/>
-- :video_game: &nbsp;Sou fã de jogos eletrônicos. Entre meus favoritos posso dizer <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">LoL</a>, <a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank">Nier Automata</a> e <a href="https://www.hollowknight.com" target="_blank">Hollow Knight</a>.<br />
+- :video_game: &nbsp;Sou fã de jogos eletrônicos. Entre meus favoritos posso dizer <a href="https://www.expedition33.com" target="_blank">Clair Obscur: Expedition 33</a>, <a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank">Nier Automata</a> e <a href="https://www.hollowknight.com" target="_blank">Hollow Knight</a>.<br />
 - :violin: &nbsp;Sou violinista e apaixonado por músicas clássicas, sendo Mozart e Paganini meus compositores favoritos.<br />
 - :book: &nbsp;Gosto de ler diversos gêneros diferentes de livros. Meu favorito é <code>A Rainha Vermelha</code> de Victoria Aveyard<br/>
 - :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:luanmaxwell25@gmail.com" target="_blank">e-mail</a> pessoal.<br />
@@ -99,12 +99,6 @@
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
 </div>
 <div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
-
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
-</details>
 </div>
 </div>
 
