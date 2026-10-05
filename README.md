@@ -59,7 +59,7 @@
 - :basketball: &nbsp;Entre meus hobbies, gosto de praticar esportes, sendo basquete meu favorito. Meu jogador favorito é o Stephen Curry e torço para os Warriors (infelizmente).<br/>
 - :video_game: &nbsp;Sou fã de jogos eletrônicos. Entre meus favoritos posso dizer <a href="https://www.expedition33.com" target="_blank">Clair Obscur: Expedition 33</a>, <a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank">Nier Automata</a> e <a href="https://www.hollowknight.com" target="_blank">Hollow Knight</a>.<br />
 - :violin: &nbsp;Sou violinista e apaixonado por músicas clássicas, sendo Mozart e Paganini meus compositores favoritos.<br />
-- :book: &nbsp;Gosto de ler diversos gêneros diferentes de livros. Meu favorito é <code>A Rainha Vermelha</code> de Victoria Aveyard<br/>
+- :book: &nbsp;Gosto de ler diversos gêneros diferentes de livros. Minha série de livros favorita é <code>Quarta Asa</code> de Rebecca Yarros<br/>
 - :mailbox: &nbsp;Para me encontrar, esse é meu <a href="mailto:luanmaxwell25@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp;Veja meu <a href="https://www.linkedin.com/in/luan-maxwell-13aa75233/" target="_blank">LinkedIn</a> para mais informações.
 </p>
